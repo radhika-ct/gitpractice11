@@ -5,3 +5,4 @@ same sample
 sample
 merge
 git reset
+git reset1
