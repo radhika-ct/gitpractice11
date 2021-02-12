@@ -1,0 +1,6 @@
+---
+- host: remote
+ task:
+  name: create devops file
+  path: /home/ansadmin/sample.txt
+  sate:touch

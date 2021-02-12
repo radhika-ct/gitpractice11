@@ -4,3 +4,7 @@ write a sample playbook
 same sample
 sample
 merge
+<<<<<<< HEAD
+=======
+git reset
+>>>>>>> main
